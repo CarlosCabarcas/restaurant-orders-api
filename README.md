@@ -24,7 +24,7 @@ git --version
 #### Si es un proyecto existente:
 ```bash
 git clone https://github.com/CarlosCabarcas/restaurant-orders-api
-cd restaurant-orders-api
+cd restaurant-orders-api/api
 ```
 
 #### 2 Crear configuración de Nginx `~/docker/nginx/conf.d/default.conf`:
